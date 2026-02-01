@@ -1,0 +1,13 @@
+*.tmp
+*.log
+*.swp
+
+.vscode/
+.idea/
+
+overlays/local/
+
+.DS_Store
+Thumbs.db
+
+.kubernetes-apply*
