@@ -20,7 +20,7 @@ spec:
         image: ghcr.io/stefanprodan/podinfo:6.5.0
         imagePullPolicy: IfNotPresent
         ports:
-        - containerPort: 9999
+        - containerPort: 9898
           name: http
         env:
         - name: PODINFO_UI_COLOR
